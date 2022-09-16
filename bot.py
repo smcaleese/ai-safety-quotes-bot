@@ -1,5 +1,4 @@
 import tweepy
-from dotenv import dotenv_values
 from datetime import datetime
 import json
 
@@ -20,12 +19,4 @@ class TwitterBot:
 
     def tweet_todays_quote(self):
         quote = self.get_todays_quote()
-        self.tweet(quote)
-
-def main():
-    config = dotenv_values('.env')
-    bot = TwitterBot(config)
-    bot.tweet_todays_quote()
-
-if __name__ == '__main__':
-    main()
+        self.tweet(f'"{quote}"')
