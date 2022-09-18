@@ -17,7 +17,7 @@ class TwitterBot:
         index = int(day_num) % len(quotes_list)
         quote = quotes_list[index]
         text, author = quote['quote'], quote['author']
-        return f'{text} - {author}'
+        return f'"{text}" - {author}'
 
     def tweet_todays_quote(self):
         quote = self.get_todays_quote()
