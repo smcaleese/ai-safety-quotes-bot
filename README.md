@@ -8,4 +8,4 @@ More information: https://frankcorso.dev/aws-lambda-python-twitter-bot.html
 
 ## Contributing
 
-More AI safety quotes are welcome. If you want to contribute, open an issue or pull request.
+More AI safety quotes are welcome. If you would like to contribute, please open an issue or pull request.
