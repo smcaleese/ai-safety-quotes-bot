@@ -15,8 +15,10 @@ class TwitterBot:
         now = datetime.now()
         day_num = now.strftime('%j')
         index = int(day_num) % len(quotes_list)
-        return quotes_list[index]
+        quote = quotes_list[index]
+        text, author = quote['quote'], quote['author']
+        return f'{text} - {author}'
 
     def tweet_todays_quote(self):
         quote = self.get_todays_quote()
-        self.tweet(f'"{quote}"')
+        self.tweet(quote)

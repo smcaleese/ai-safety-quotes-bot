@@ -1,64 +1,420 @@
 {
     "quotes": [
-        "Biological neurons operate at a peak speed of about 200 Hz, a full seven orders of magnitude slower than a modern microprocessor (~2 GHz).",
-        "Some little idiot is bound to press the ignite button just to see what happens.",
-        "Nature might be a great experimentalist, but one who would never pass muster with an ethics review board - contravening the Helsinki Declaration and every norm of moral decency, left, right, and center.",
-        "The gap between a dumb and a clever person may appear large from an anthropocentric perspective, yet in a less parochial view the two have nearly indistinguishable minds.",
-        "We know that blind evolutionary processes can produce human-level general intelligence, since they have already done so at least once.",
-        "Human working memory is able to hold no more than some four or five chunks of information at any given time.",
-        "Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything and the immaturity of our conduct.",
-        "Far from being the smartest possible biological species, we are probably better thought of as the stupidest possible biological species capable of starting a technological civilization",
-        "The image of evolution as a process that reliably produces benign effects is difficult to reconcile with the enormous suffering that we see in both the human and the natural world.",
-        "By 5000 BC, following the Agricultural Revolution, the rate of growth had increased to the point where the same amount of growth took just two centuries. Today, following the Industrial Revolution, the world economy grows on average by that amount every ninety minutes.",
-        "We find ourselves in a thicket of strategic complexity, surrounded by a dense mist of uncertainty.",
-        "The orthogonality thesis Intelligence and final goals are orthogonal: more or less any level of intelligence could in principle be combined with more or less any final goal.",
-        "Think of a 'discovery' as an act that moves the arrival of information from a later point in time to an earlier time.",
-        "An emulation operating at a speed of ten thousand times that of a biological brain would be able to read a book in a few seconds and write a PhD thesis in an afternoon.",
-        "Two decades is a sweet spot for prognosticators of radical change: near enough to be attention-grabbing and relevant, yet far enough to make it possible to suppose that a string of breakthroughs, currently only vaguely imaginable, might by then have occurred.",
-        "If the AI has (perhaps for safety reasons) been confined to an isolated computer, it may use its social manipulation superpower to persuade the gatekeepers to let it gain access to an Internet port. Alternatively, the AI might use its hacking superpower to escape its confinement.",
-        "Whenever an observation is made that rules out some possible worlds, we remove the sand from the corresponding areas of the paper and redistribute it evenly over the areas that remain in play.",
-        "More importantly still, stem cell-derived gametes would allow multiple generations of selection to be compressed into less than a human maturation period, by enabling iterated embryo selection.",
-        "If we represent all the happiness experienced during one entire such life with a single teardrop of joy, then the happiness of these souls could fill and refill the Earth’s oceans every second, and keep doing so for a hundred billion billion millennia.",
-        "one can speculate that the tardiness and wobbliness of humanity's progress on many of the 'eternal problems' of philosophy are due to the unsuitability of the human cortex for philosophical work.",
-        "The existence of birds demonstrated that heavier-than-air flight was physically possible and prompted efforts to build flying machines. Yet the first functioning airplanes did not flap their wings.",
-        "When horses became obsolete as a source of moveable power, many were sold off to meatpackers to be processed into dog food, bone meal, leather, and glue. These animals had no alternative employment through which to earn their keep.",
-        "Solving the value-loading problem is a research challenge worthy of some of the next generation's best mathematical talent.",
-        "Expert chess playing, for example, was once thought to epitomize human intellection. In the view of several experts in the late fifties: 'If one could devise a successful chess machine, one would seem to have penetrated to the core of human intellectual endeavor.'",
-        "there is no reason to suppose Homo sapiens to have reached the apex of cognitive effectiveness attainable in a biological system.",
-        "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain",
-        "One sympathizes with John McCarthy, who lamented: “As soon as it works, no one calls it AI anymore.",
-        "Some technical problems in the field of artificial intelligence, for instance, might be negative-value inasmuch as their solution would speed the development of machine intelligence without doing as much to expedite the development of control methods",
-        "To calculate the probability of a hypothesis, we simply measure the amount of sand in all the areas that correspond to the possible worlds in which the hypothesis is true.",
-        "Sometimes a problem that initially looks hopelessly complicated turns out to have a surprisingly simple solution (though the reverse is probably more common).",
-        "Though this might cause the AI to be terminated, it might also encourage the engineers who perform the postmortem to believe that they have gleaned a valuable new insight into AI dynamics—leading them to place more trust in the next system they design",
-        "The clear feasibility of biological enhancement should increase our confidence that machine intelligence is ultimately achievable, since enhanced human scientists and engineers will be able to make more and faster progress than their au naturel counterparts.",
-        "assuming that the observable universe is void of extraterrestrial civilizations, then what hangs in the balance is at least 10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 human lives",
-        "Collective superintelligence: A system composed of a large number of smaller intellects such that the system’s overall performance across many very general domains vastly outstrips that of any current cognitive system.",
-        "Because of this apparent time dilation of the material world, a speed superintelligence would prefer to work with digital objects.",
-        "the orthogonality thesis suggests that we cannot blithely assume that a superintelligence will necessarily share any of the final values stereotypically associated with wisdom and intellectual development in humans",
-        "The process of solving a jigsaw puzzle starts out simple—it is easy to find the corners and the edges. Then recalcitrance goes up as subsequent pieces are harder to fit. But as the puzzle nears completion, the search space collapses and the process gets easier again.",
-        "I think that the alternative views that have been presented in the literature are substantially worse—including the default view, or “null hypothesis,” according to which we can for the time being safely or reasonably ignore the prospect of superintelligence.",
-        "The treacherous turn - While weak, an AI behaves cooperatively (increasingly so, as it gets smarter). When the AI gets sufficiently strong - without warning or provocation - it strikes, forms a singleton, and begins directly to optimize the world",
-        "Our coherent extrapolated volition is our wish if we knew more, thought faster, were more the people we wished we were, had grown up farther together; where the extrapolation converges rather than diverges, where our wishes cohere rather than interfere;",
-        "Common sense and natural language understanding have also turned out to be difficult. It is now often thought that achieving a fully human-level performance on these tasks is an 'AI-complete' problem",
-        "And, as the fate of the gorillas now depends more on us humans than on the gorillas themselves, so the fate of our species would depend on the actions of the machine superintelligence.",
-        "We do have one advantage: we get to build the stuff. In principle, we could build a kind of superintelligence that would protect human values.",
-        "In practice, the control problem - the problem of how to control what the superintelligence would do—looks quite difficult. It also looks like we will only get one chance.",
-        "Once unfriendly superintelligence exists, it would prevent us from replacing it or changing its preferences. Our fate would be sealed.",
-        "It now seems clear that a capacity to learn would be an integral feature of the core design of a system intended to attain general intelligence, not something to be tacked on later as an extension or an afterthought.",
-        "We should recognize that there can exist instrumentally powerful information processing systems - intelligent systems - that are neither inherently good nor reliably wise.",
-        "We should expect that they will have very different cognitive architectures than biological intelligences, and in their early stages of development they will have very different profiles of cognitive strengths and weaknesses",
-        "One solitary genius working out of a cork-lined bedroom can write In Search of Lost Time. Could an equivalent masterpiece be produced by recruiting an office building full of literary hacks?",
-        "Even within the range of present human variation we see that some functions benefit greatly from the labor of one brilliant mastermind as opposed to the joint efforts of myriad mediocrities.",
-        "On this view, our most celebrated philosophers are like dogs walking on their hind legs - just barely attaining the threshold level of performance required for engaging in the activity at all.",
-        "Several instrumental values can be identified which are convergent in the sense that their attainment would increase the chances of the agent’s goal being realized for a wide range of final goals and a wide range of situations",
-        "There is no reason to expect a generic AI to be motivated by love or hate or pride or other such common human sentiments: these complex adaptations would require deliberate expensive effort to recreate in AIs.",
-        "Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.",
-        "The ultimate potential of machine intelligence is, of course, vastly greater than that of organic intelligence.",
-        "We can tentatively define a superintelligence as any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest.",
-        "Unfortunately, because a meaningless reductionistic goal is easier for humans to code and easier for an AI to learn, it is just the kind of goal that a programmer would choose to install in his seed AI if his focus is on taking the quickest path to 'getting the AI to work'",
-        "In recent years, growth in the serial speed of processors has stagnated, but increased use of parallelization has enabled the total number of computations performed to remain on the trend line.",
-        "Individual differences in intelligence might to a significant extent be attributable to variations in the number and nature of such slightly deleterious alleles that each of us carries.",
-        "In order for the thoughts of one brain to be intelligible to another, the thoughts need to be decomposed and packaged into symbols according to some shared convention that allows the symbols to be correctly interpreted by the receiving brain. This is the job of language."
+        {
+            "quote": "Once the machine thinking method had started, it would not take long to outstrip our feeble powers. At some stage therefore we should have to expect the machines to take control.",
+            "author": "Alan Turing"
+        },
+        {
+            "quote": "When we are headed the wrong way, the last thing needed is progress.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Nature might be a great experimentalist, but one who would never pass muster with an ethics review board - contravening the Helsinki Declaration and every norm of moral decency, left, right, and center.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We call an AI system \"corrigible\" if it cooperates with what its creators regard as a corrective intervention, despite default incentives for rational agents to resist attempts to shut them down or modify their preferences",
+            "author": "Nate Soares et. al., Corrigibility"
+        },
+        {
+            "quote": "If we are threatened with existential catastrophe as the default outcome of an intelligence explosion, our thinking must immediately turn to the search for countermeasures.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Yes, more funding is flowing into the field; but it is still two to three orders of magnitude less than is going into simply making machines smarter.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The task looks difficult, but we have no way of knowing how hard it will end up being until we've invested more resources into safety research. Keeping in mind how much we have to gain, and to lose, advises against both cynicism and complacency.",
+            "author": "Rob Bensinger"
+        },
+        {
+            "quote": "On this view, our most celebrated philosophers are like dogs walking on their hind legs - just barely attaining the threshold level of performance required for engaging in the activity at all.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "In practice, the control problem - the problem of how to control what the superintelligence would do\u2014looks quite difficult. It also looks like we will only get one chance.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The gap between a dumb and a clever person may appear large from an anthropocentric perspective, yet in a less parochial view the two have nearly indistinguishable minds.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "there is no reason to suppose Homo sapiens to have reached the apex of cognitive effectiveness attainable in a biological system.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Your synapses store all your knowledge and skills as roughly 100 terabytes' worth of information, while your DNA stores merely about a gigabyte, barely enough to store a single movie download.",
+            "author": "Max Tegmark, Life 3.0"
+        },
+        {
+            "quote": "Rather than asking, as regular reinforcement learning does, \"Given a reward signal, what behavior will optimize it?,\" inverse reinforcement learning (or \"IRL\") asks the reverse",
+            "author": "Brian Christie, The Alignment Problem"
+        },
+        {
+            "quote": "All you need is lots and lots of data and lots of information about what the right answer is, and you'll be able to train a big neural net to do what you want.",
+            "author": "Geoffrey Hinton"
+        },
+        {
+            "quote": "If you went back 10-12 years ago the whole notion of Artificial General Intelligence was lunatic fringe. People (in the field) would literally just roll their eyes and just walk away. (I had that happen) multiple times.",
+            "author": "Shane Legg"
+        },
+        {
+            "quote": "Solving the value-loading problem is a research challenge worthy of some of the next generation's best mathematical talent.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The treacherous turn - While weak, an AI behaves cooperatively (increasingly so, as it gets smarter). When the AI gets sufficiently strong - without warning or provocation - it strikes, forms a singleton, and begins directly to optimize the world",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "one can speculate that the tardiness and wobbliness of humanity's progress on many of the 'eternal problems' of philosophy are due to the unsuitability of the human cortex for philosophical work.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "And, as the fate of the gorillas now depends more on us humans than on the gorillas themselves, so the fate of our species would depend on the actions of the machine superintelligence.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Human working memory is able to hold no more than some four or five chunks of information at any given time.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Collective superintelligence: A system composed of a large number of smaller intellects such that the system's overall performance across many very general domains vastly outstrips that of any current cognitive system.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We know that blind evolutionary processes can produce human-level general intelligence, since they have already done so at least once.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Far from being the smartest possible biological species, we are probably better thought of as the stupidest possible biological species capable of starting a technological civilization",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "the orthogonality thesis suggests that we cannot blithely assume that a superintelligence will necessarily share any of the final values stereotypically associated with wisdom and intellectual development in humans",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "I think we should be very careful about artificial intelligence. If I were to guess like what our biggest existential threat is, it's probably that. ...With artificial intelligence we are summoning the demon.",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "Some little idiot is bound to press the ignite button just to see what happens.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We should expect that they will have very different cognitive architectures than biological intelligences, and in their early stages of development they will have very different profiles of cognitive strengths and weaknesses",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Biological neurons operate at a peak speed of about 200 Hz, a full seven orders of magnitude slower than a modern microprocessor (~2 GHz).",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Some technical problems in the field of artificial intelligence, for instance, might be negative-value inasmuch as their solution would speed the development of machine intelligence without doing as much to expedite the development of control methods",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Sometimes a problem that initially looks hopelessly complicated turns out to have a surprisingly simple solution (though the reverse is probably more common).",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "This is crunch time for the whole human species, and not just for us but for the intergalactic civilization whose existence depends on us. This is the hour before the final exam and we're trying to get as much studying done as possible.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Evolution optimizes strongly for energy efficiency because of limited food supply, not for ease of construction or understanding by human engineers.",
+            "author": "Max Tegmark, Life 3.0"
+        },
+        {
+            "quote": "The image of evolution as a process that reliably produces benign effects is difficult to reconcile with the enormous suffering that we see in both the human and the natural world.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "our coherent extrapolated volition is our wish if we knew more, thought faster, were more the people we wished we were, had grown up farther together; where the extrapolation converges rather than diverges, where our wishes cohere rather than interfere;",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Several instrumental values can be identified which are convergent in the sense that their attainment would increase the chances of the agent's goal being realized for a wide range of final goals and a wide range of situations",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Humanity has risen to a position where we control the rest of the world precisely because of our unrivalled mental abilities. If we pass this mantle to our machines, it will be they who are in this unique position.",
+            "author": "Toby Ord"
+        },
+        {
+            "quote": "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain",
+            "author": "Alan Turing"
+        },
+        {
+            "quote": "Think of a 'discovery' as an act that moves the arrival of information from a later point in time to an earlier time.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Two decades is a sweet spot for prognosticators of radical change: near enough to be attention-grabbing and relevant, yet far enough to make it possible to suppose that a string of breakthroughs, currently only vaguely imaginable, might by then have occurred.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "If you saw a movie of a nuclear explosion going off, and you were told an Earthly life form had done it, you would never in your wildest dreams imagine that the Squishy Things could be responsible. After all, Squishy Things aren't radioactive.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "But the highest scores on the count axis occur in tandem with low size, and the smallest possible systems that can mimic outward signs of emotion are of low moral worth.",
+            "author": "Nate Soares, The Value Learning Problem"
+        },
+        {
+            "quote": "The clear feasibility of biological enhancement should increase our confidence that machine intelligence is ultimately achievable, since enhanced human scientists and engineers will be able to make more and faster progress than their au naturel counterparts.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.",
+            "author": "I.J. Good"
+        },
+        {
+            "quote": "In 1901, two years before helping build the first heavier-than-air flyer, Wilbur Wright told his brother that powered flight was fifty years away.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "When horses became obsolete as a source of moveable power, many were sold off to meatpackers to be processed into dog food, bone meal, leather, and glue. These animals had no alternative employment through which to earn their keep.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "In recent years, growth in the serial speed of processors has stagnated, but increased use of parallelization has enabled the total number of computations performed to remain on the trend line.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "It was understood that, in principle, a big-enough neural network, with enough training examples and time, can learn almost anything. But no one had fast-enough computers, enough data to train on, or enough patience",
+            "author": "Brian Christie, The Alignment Problem"
+        },
+        {
+            "quote": "The existence of birds demonstrated that heavier-than-air flight was physically possible and prompted efforts to build flying machines. Yet the first functioning airplanes did not flap their wings.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We find ourselves in a thicket of strategic complexity, surrounded by a dense mist of uncertainty.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We can tentatively define a superintelligence as any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Imagine hundreds of corporations experimenting with nuclear materials. Imagine that there's no well-established scientific understanding of nuclear physics yet, and the dangers are largely unknown.",
+            "author": "Thane Ruthenis"
+        },
+        {
+            "quote": "There is no reason to expect a generic AI to be motivated by love or hate or pride or other such common human sentiments: these complex adaptations would require deliberate expensive effort to recreate in AIs.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We should not procrastinate on safety engineering. In a report for the Department of Defense ... approximately 75% of the most critical decisions that determine a system's safety occur early in development",
+            "author": "Dan Hendrycks et. al., Unsolved Problems in ML Safety"
+        },
+        {
+            "quote": "the gorilla problem - specifically, the problem of whether humans can maintain their supremacy and autonomy in a world that includes machines with substantially greater intelligence.",
+            "author": "Stuart Russell"
+        },
+        {
+            "quote": "Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything and the immaturity of our conduct.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The main handicap of authoritarian regimes in the 20th century the desire to concentrate all information and power in one place may become their decisive advantage in the 21st century.",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "Imagine what would happen if we received notice from a superior alien civilization that they would arrive on Earth in thirty to fifty years ... Yet our response to the anticipated arrival of superintelligent AI has been ... well, underwhelming",
+            "author": "Stuart Russell"
+        },
+        {
+            "quote": "Expert chess playing, for example, was once thought to epitomize human intellection. In the view of several experts in the late fifties: 'If one could devise a successful chess machine, one would seem to have penetrated to the core of human intellectual endeavor.'",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Against a backdrop of perplexity and uncertainty, analysis stands out as being of particularly high expected value.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The development of full artificial intelligence could spell the end of the human race.",
+            "author": "Stephen Hawking"
+        },
+        {
+            "quote": "the most appropriate attitude may be a bitter determination to be as competent as we can, much as if we were preparing for a difficult exam that will realize our dreams or obliterate them.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "If we represent all the happiness experienced during one entire such life with a single teardrop of joy, then the happiness of these souls could fill and refill the Earth's oceans every second, and keep doing so for a hundred billion billion millennia.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Since the design of machines is one of these intellectual activities, an ultra-intelligent machine could design even better machines; there would then unquestionably be an \"intelligence explosion,\" and the intelligence of man would be left far behind.",
+            "author": "I.J. Good"
+        },
+        {
+            "quote": "The orthogonality thesis Intelligence and final goals are orthogonal: more or less any level of intelligence could in principle be combined with more or less any final goal.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Every time I went out to Silicon Valley during the campaign, I came home more alarmed about this. My staff lived in fear that I'd start talking about 'the rise of the robots' in some Iowa town hall. Maybe I should have.",
+            "author": "Hillary Clinton"
+        },
+        {
+            "quote": "Common sense and natural language understanding have also turned out to be difficult. It is now often thought that achieving a fully human-level performance on these tasks is an 'AI-complete' problem",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "assuming that the observable universe is void of extraterrestrial civilizations, then what hangs in the balance is at least 10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 human lives",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Because of this apparent time dilation of the material world, a speed superintelligence would prefer to work with digital objects.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "A system that is optimizing a function of n variables, where the objective depends on a subset of size k < n, will often set the remaining unconstrained variables to extreme values",
+            "author": "Stuart Russell"
+        },
+        {
+            "quote": "If the word \"intelligence\" evokes Einstein instead of humans, then it may sound sensible to say that intelligence is no match for a gun, as if guns had grown on trees.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Lord Rutherford, perhaps the world's most eminent nuclear physicist, described the prospect of extracting energy from atoms as nothing but \"moonshine.\" Less than 24 hours later, Leo Szilard invented the neutron-induced nuclear chain reaction",
+            "author": "Allan Dafoe and Stuart Russell"
+        },
+        {
+            "quote": "One sympathizes with John McCarthy, who lamented: \"As soon as it works, no one calls it AI anymore.\"",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "the impossibility of defining true human purposes correctly and completely. This, in turn, means that what I have called the standard model - whereby humans attempt to imbue machines with their own purposes\u2014is destined to fail.",
+            "author": "Stuart Russell, Human Compatible"
+        },
+        {
+            "quote": "When Earth's prospects are that far underwater in the basement of the logistic success curve, it may be hard to feel motivated about continuing to fight, since doubling our chances of survival will only take them from 0% to 0%.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Since survival is unattainable, we should shift the focus of our efforts to helping humanity die with with slightly more dignity.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "how to ensure that these models capture our norms and values, understand what we mean or intend, and above all, do what we want ... It has a name: the alignment problem.",
+            "author": "Brian Christie, The Alignment Problem"
+        },
+        {
+            "quote": "One solitary genius working out of a cork-lined bedroom can write In Search of Lost Time. Could an equivalent masterpiece be produced by recruiting an office building full of literary hacks?",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Even within the range of present human variation we see that some functions benefit greatly from the labor of one brilliant mastermind as opposed to the joint efforts of myriad mediocrities.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The default scenario is a society of interacting intelligent agents in a virtual world, simulated on computers with hyperbolically increasing computational resources.",
+            "author": "Marcus Hutter"
+        },
+        {
+            "quote": "I have always been convinced that the only way to get artificial intelligence to work is to do the computation in a way similar to the human brain. That is the goal I have been pursuing.",
+            "author": "Geoffrey Hinton"
+        },
+        {
+            "quote": "Our labeled datasets were thousands of times too small. Our computers were millions of times too slow.",
+            "author": "Geoffrey Hinton"
+        },
+        {
+            "quote": "It now seems clear that a capacity to learn would be an integral feature of the core design of a system intended to attain general intelligence, not something to be tacked on later as an extension or an afterthought.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Instead, he used what seemed like a sensible proxy: points. The machine found a loop-hole, a tiny harbor with replenishing power-ups where it could ignore the race entirely, do donuts and rack up points ... forever.",
+            "author": "Brian Christie, The Alignment Problem"
+        },
+        {
+            "quote": "The ultimate potential of machine intelligence is, of course, vastly greater than that of organic intelligence.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "History shows that for the general public, and even for scientists not in a key inner circle, and even for scientists in that key circle, it is very often the case that key technological developments still seem decades away, five years before they show up.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Having failed to solve this problem in any good way, I now give up and solve it poorly ... the alternative was publishing nothing, and publishing this seems marginally more dignified.",
+            "author": "Eliezer Yudkowsky, AGI Ruin: A List of Lethalities"
+        },
+        {
+            "quote": "Through the fog of everyday trivialities, we can perceive - if but dimly - the essential task of our age.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Instead, I feel an odd mix of intensity, urgency, confusion and hesitance. I'm looking at something bigger than I ever expected to confront, feeling underqualified and ignorant about what to do next.",
+            "author": "Holden Karnofsky"
+        },
+        {
+            "quote": "Once unfriendly superintelligence exists, it would prevent us from replacing it or changing its preferences. Our fate would be sealed.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "We do have one advantage: we get to build the stuff. In principle, we could build a kind of superintelligence that would protect human values.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "The ever accelerating progress of technology and changes in the mode of human life give the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue.",
+            "author": "John von Neumann"
+        },
+        {
+            "quote": "The Sorcerer's Apprentice problem arises when systems' programmed goals do not contain information about all relevant dimensions along which observations can vary.",
+            "author": "Nate Soares, The Value Learning Problem"
+        },
+        {
+            "quote": "We cannot quite know what will happen if a machine exceeds our own intelligence, so we can't know if we'll be infinitely helped by it, or ignored by it and sidelined, or conceivably destroyed by it.",
+            "author": "Stephen Hawking"
+        },
+        {
+            "quote": "It's not our Universe giving meaning to conscious beings, but conscious beings giving meaning to our Universe.",
+            "author": "Max Tegmark, Life 3.0"
+        },
+        {
+            "quote": "It's obvious at this point that humanity isn't going to solve the alignment problem, or even try very hard, or even go out with much of a fight.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": " It will probably draw more than the twelve watts of power that your brain uses, but its engineers won't be as obsessed about energy efficiency as evolution was",
+            "author": "Max Tegmark, Life 3.0"
+        },
+        {
+            "quote": "Unfortunately, because a meaningless reductionistic goal is easier for humans to code ... it is just the kind of goal that a programmer would choose to install in his seed AI if his focus is on taking the quickest path to 'getting the AI to work'",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "within a generation, I am convinced, few compartments of intellect will remain outside the machine's realm - the problem of creating 'artificial intelligence' will be substantially solved",
+            "author": "Marvin Minsky (1967)"
+        },
+        {
+            "quote": "If the AI has (perhaps for safety reasons) been confined to an isolated computer, it may use its social manipulation superpower to persuade the gatekeepers to let it gain access to an Internet port. Alternatively, the AI might use its hacking superpower to escape",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "I think that the alternative views that have been presented in the literature are substantially worse - including the default view, or \"null hypothesis,\" according to which we can for the time being safely or reasonably ignore the prospect of superintelligence.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "An emulation operating at a speed of ten thousand times that of a biological brain would be able to read a book in a few seconds and write a PhD thesis in an afternoon.",
+            "author": "Nick Bostrom"
+        },
+        {
+            "quote": "we believe that the increasing trend towards end-to-end, fully autonomous systems points towards the need for a unified approach to prevent these systems from causing unintended harm.",
+            "author": "Amodei et. al., Concrete Problems in AI Safety"
+        },
+        {
+            "quote": "The AI does not hate you, nor does it love you, but you are made out of atoms that it can use for something else.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Individual differences in intelligence might to a significant extent be attributable to variations in the number and nature of such slightly deleterious alleles that each of us carries.",
+            "author": "Nick Bostrom"
+        }
     ]
 }
