@@ -1,9 +1,7 @@
-## Superintelligence twitter bot
+## AI safety quotes bot
 
-Tweets a quote from Superintelligence once per day.
+Tweets one AI safety quote per day.
 
-The bot uses the `tweepy` python package.
-
-It's deployed on AWS lambda and uses AWS EventBridge for the scheduler.
+The bot is implemented using the `tweepy` python package and deployed as an AWS lambda function. AWS EventBridge is used to schedule the function run once per day.
 
 More information: https://frankcorso.dev/aws-lambda-python-twitter-bot.html
