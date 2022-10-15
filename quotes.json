@@ -233,6 +233,10 @@
             "author": "Nick Bostrom"
         },
         {
+            "quote": "A lot of those better worlds will die anyways. It's a genuinely difficult problem, to solve something like that on your first try.  But they'll die with more dignity than this.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
             "quote": "Against a backdrop of perplexity and uncertainty, analysis stands out as being of particularly high expected value.",
             "author": "Nick Bostrom"
         },
@@ -294,10 +298,6 @@
         },
         {
             "quote": "When Earth's prospects are that far underwater in the basement of the logistic success curve, it may be hard to feel motivated about continuing to fight, since doubling our chances of survival will only take them from 0% to 0%.",
-            "author": "Eliezer Yudkowsky"
-        },
-        {
-            "quote": "Since survival is unattainable, we should shift the focus of our efforts to helping humanity die with with slightly more dignity.",
             "author": "Eliezer Yudkowsky"
         },
         {
@@ -365,6 +365,10 @@
             "author": "John von Neumann"
         },
         {
+            "quote": "This situation you see when you look around you is not what a surviving world looks like. The worlds of humanity that survive have plans.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
             "quote": "The Sorcerer's Apprentice problem arises when systems' programmed goals do not contain information about all relevant dimensions along which observations can vary.",
             "author": "Nate Soares, The Value Learning Problem"
         },
@@ -415,6 +419,18 @@
         {
             "quote": "Individual differences in intelligence might to a significant extent be attributable to variations in the number and nature of such slightly deleterious alleles that each of us carries.",
             "author": "Nick Bostrom"
+        },
+        {
+            "quote": "Ours is the era of inadequate AI alignment theory. Any other facts about this era are relatively unimportant, but sometimes I tweet about them anyway.",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Safely aligning a powerful AGI is difficult",
+            "author": "Eliezer Yudkowsky"
+        },
+        {
+            "quote": "Losing a conflict with a high-powered cognitives system looks at least as deadly as 'everybody on the face of the Earth suddenly falls over dead within the same second'.",
+            "author": "Eliezer Yudkowsky"
         }
     ]
 }
